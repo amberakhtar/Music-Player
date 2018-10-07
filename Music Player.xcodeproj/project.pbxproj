@@ -12,6 +12,8 @@
 		7B6A6139213C03D800734913 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B6A6137213C03D800734913 /* Main.storyboard */; };
 		7B6A613B213C03DB00734913 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B6A613A213C03DB00734913 /* Assets.xcassets */; };
 		7B6A613E213C03DB00734913 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B6A613C213C03DB00734913 /* LaunchScreen.storyboard */; };
+		7B6A6148213C06C100734913 /* song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7B6A6147213C06C100734913 /* song.mp3 */; };
+		7B6A614A213C0CCD00734913 /* ariana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B6A6149213C0CCD00734913 /* ariana.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		7B6A613A213C03DB00734913 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B6A613D213C03DB00734913 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7B6A613F213C03DB00734913 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7B6A6147213C06C100734913 /* song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song.mp3; sourceTree = "<group>"; };
+		7B6A6149213C0CCD00734913 /* ariana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ariana.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 				7B6A6135213C03D800734913 /* ViewController.swift */,
 				7B6A6137213C03D800734913 /* Main.storyboard */,
 				7B6A613A213C03DB00734913 /* Assets.xcassets */,
+				7B6A6147213C06C100734913 /* song.mp3 */,
+				7B6A6149213C0CCD00734913 /* ariana.jpg */,
 				7B6A613C213C03DB00734913 /* LaunchScreen.storyboard */,
 				7B6A613F213C03DB00734913 /* Info.plist */,
 			);
@@ -122,6 +128,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B6A6148213C06C100734913 /* song.mp3 in Resources */,
+				7B6A614A213C0CCD00734913 /* ariana.jpg in Resources */,
 				7B6A613E213C03DB00734913 /* LaunchScreen.storyboard in Resources */,
 				7B6A613B213C03DB00734913 /* Assets.xcassets in Resources */,
 				7B6A6139213C03D800734913 /* Main.storyboard in Resources */,
